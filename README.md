@@ -1,9 +1,8 @@
 # Python-app
 
 # Como usar
-Primeiro instalamos o ambiente virtual
-pip install virtualenv
-ir na raiz do projeto abrir o cmd e colocar = virtualenv nome_da_virtualenv
+- Primeiro instalamos o ambiente virtual
+pip install virtualenv </br>
 com isso precisamos iniciar a maquina virtual:
 - Mac ou Linux utilizar esse comando → source nome_da_virtualenv/bin/activate
 - Windowns → nome_da_virtualenv/Scripts/Activate
