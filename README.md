@@ -24,3 +24,7 @@ depois de instalar as bibliotecas iniciamos o app utilizando → streamlit run n
     <li>plotly</li>
     <li>pandas datareader</li>
 </ul>
+
+<h1>Resultado do projeto</h1>
+
+![StreamLit](https://user-images.githubusercontent.com/50467082/224191266-54f4d6db-3975-40ae-af1d-d234cecff7b0.png)
